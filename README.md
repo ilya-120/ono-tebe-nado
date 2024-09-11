@@ -4,7 +4,7 @@
 
 **GitHub**
 
-* Ссылка на репозитарий проекта: https://ilya-120.github.io/ono-tebe-nado.git
+* Ссылка на репозиторий проекта: https://ilya-120.github.io/ono-tebe-nado.git
 
 * [Ссылка на deploy проекта](https://ilya-120.github.io/ono-tebe-nado/)
 
